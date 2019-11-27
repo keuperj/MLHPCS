@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/keuperj/MLHPCS/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+# Workshop on Machine Learning on HPC Systems (MLHPCS)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Date: in conjuction with the ISC 2020 (June 21st - 25th 2020)
 
-### Markdown
+## Abstract
+Over the last few years, Machine Learning/Deep Learning (ML/DL) has become an important research topic in the High Performance Computing (HPC) community. Bringing new users and data intensive applications on HPC systems, Machine Learning is increasingly affecting the design and operation of compute infrastructures. On the other hand, the Machine Learning community is just getting started to utilize the performance of HPC, leaving many opportunities for better parallelization and scalability. The intent of this workshop is to bring together researchers and practitioners to discuss three key topics in the context of High Performance Computing and Machine Learning/Deep Learning: parallelization and scaling of ML/DL algorithms, HPC system design and optimization for ML/DL workloads and ML/DL applications on HPC systems.  
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Topics / Scope
+The aim of the workshop is to provide a platform for technical discussions, work in progress and the presentation of unsolved problems, which is complementary to the “Machine Learning Day” in the main conference program.
 
-```markdown
-Syntax highlighted code block
+* Unsolved problems in ML/DL on HPC systems
+* Scalable Machine Learning / Deep Learning  algorithms
+* Parallelization techniques 
+* Libraries for ML/DL
+* Tools + workflows for ML/DL on HPC systems
+* Optimized HPS System design / setup for efficient ML/DL 
+* ML Applications on HPC Systems 
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/keuperj/MLHPCS/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
