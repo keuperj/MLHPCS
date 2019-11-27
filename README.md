@@ -17,4 +17,11 @@ The aim of the workshop is to provide a platform for technical discussions, work
 * Optimized HPS System design / setup for efficient ML/DL 
 * ML Applications on HPC Systems 
 
+## Call for Papers
+-TBA-
 
+## Program
+-TBA- 
+
+## Contact
+info@mlhpcs.org
