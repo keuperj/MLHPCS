@@ -1,4 +1,4 @@
-theme: jekyll-theme-slate
+theme: hacker
 title: Workshop on Machine Learning on HPC Systems (MLHPCS)
 share-links-active:
   twitter: true
