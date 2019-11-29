@@ -1,3 +1,4 @@
+<img src="DL_brain.jpg">
 
 ## Abstract
 Over the last few years, Machine Learning/Deep Learning (ML/DL) has become an important research topic in the High Performance Computing (HPC) community. Bringing new users and data intensive applications on HPC systems, Machine Learning is increasingly affecting the design and operation of compute infrastructures. On the other hand, the Machine Learning community is just getting started to utilize the performance of HPC, leaving many opportunities for better parallelization and scalability. The intent of this workshop is to bring together researchers and practitioners to discuss three key topics in the context of High Performance Computing and Machine Learning/Deep Learning: parallelization and scaling of ML/DL algorithms, HPC system design and optimization for ML/DL workloads and ML/DL applications on HPC systems.  
