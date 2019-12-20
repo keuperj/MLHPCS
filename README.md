@@ -17,10 +17,26 @@ The aim of the workshop is to provide a platform for technical discussions, work
 * ML Applications on HPC Systems 
 
 ## Call for Papers
--TBA-
+-details comming soon-
+
+### Submission Deadline: 04/15/20 [no extensions!]
+
+### Paper Format
+* 12 pages (including references)
+* LNCS Format -> [Author Kit](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines)
 
 ## Program
 -TBA- 
 
 ## Contact
 info@mlhpcs.org
+
+## Organizing Committee
+* Juan J. Durillo (LRZ, Garching)
+* Dennis Hoppe (HLRS, Stutgart)
+* Jenia Jitsev (JSC, Jülich)
+* Janis Keuper (IMLA / Fraunhofer ITWM)
+* Sunna Torge (ZIH, Dresden)
+
+## Program Committee
+-TBA- 
