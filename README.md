@@ -41,4 +41,5 @@ info@mlhpcs.org
 * Sunna Torge (ZIH, Dresden)
 
 ## Program Committee
--TBA- 
+* Dr. Jamal Toutouh. MIT Computer Science & Artificial Intelligence Lab (CSAIL)
+* Sebastien Varrette, PhD. University of Luxembourg &  UL High Performance Computing
