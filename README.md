@@ -41,5 +41,9 @@ info@mlhpcs.org
 * Sunna Torge (ZIH, Dresden)
 
 ## Program Committee
-* Dr. Jamal Toutouh. MIT Computer Science & Artificial Intelligence Lab (CSAIL)
-* Sebastien Varrette, PhD. University of Luxembourg &  UL High Performance Computing
+* all OC members
+* Peter Labus, Fraunhofer Competence Center HPC
+* Eduardo Rodrigues IBM Research
+* Jamal Toutouh, MIT Computer Science & Artificial Intelligence Lab (CSAIL)
+* Sebastien Varrette,University of Luxembourg &  UL High Performance Computing
+
