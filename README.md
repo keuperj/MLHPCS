@@ -46,4 +46,4 @@ info@mlhpcs.org
 * Eduardo Rodrigues IBM Research
 * Jamal Toutouh, MIT Computer Science & Artificial Intelligence Lab (CSAIL)
 * Sebastien Varrette,University of Luxembourg &  UL High Performance Computing
-
+* more PC member tba
