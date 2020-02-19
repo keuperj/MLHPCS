@@ -45,7 +45,9 @@ info@mlhpcs.org
 * René Jäkel. ZIH TU Dresden 
 * Peter Labus, Fraunhofer Competence Center HPC
 * Konstantinos Nikas, NTUA
+* Ariel Oleksiak, Poznań Supercomputing and Networking Center
 * Eduardo Rodrigues IBM Research
+* Fabio Stella, University of Milan-Bicocca
 * Jamal Toutouh, MIT Computer Science & Artificial Intelligence Lab (CSAIL)
 * Sebastien Varrette,University of Luxembourg &  UL High Performance Computing
 
