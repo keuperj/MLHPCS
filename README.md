@@ -20,7 +20,7 @@ The aim of the workshop is to provide a platform for technical discussions and t
 Double blind reviewed workshop paper will be published in the Springer LNCS Conference Proceedings of the ISC.
 
 ### Submission Deadline: 04/15/20 [no extensions!]
-Please submit your paper via [CMT](https://cmt3.research.microsoft.com/MLHPCS2020.)
+Please submit your paper via [CMT](https://cmt3.research.microsoft.com/MLHPCS2020)
 
 ### Paper Format
 * 12 pages (including references)
