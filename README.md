@@ -10,7 +10,7 @@ As our hosting confernce [ISC canceld](https://www.isc-hpc.com/) this years meet
 ## Abstract
 Over the last few years, Machine Learning (and in particular Deep Learning) (ML / DL) has become an important research topic in the High Performance Computing (HPC) community. Bringing new users and data intensive applications on HPC systems, ML / DL is increasingly affecting the design and operation of compute infrastructures. On the other hand, the ML / DL community is just getting started to utilize the performance of HPC, leaving many opportunities for better parallelization and scalability. The intent of this workshop is to bring together researchers and practitioners to discuss three key topics in the context of High Performance Computing and Machine Learning / Deep Learning: parallelization and scaling of ML / DL algorithms, ML / DL applications on HPC systems, and HPC systems design and optimization for ML / DL workloads.  
 
-### Date: in conjunction with the [ISC 2020](https://www.isc-hpc.com/) (June 21st - 25th 2020)
+### Date: in conjunction with the [ISC 2020](https://www.isc-hpc.com/) online event (some time between June 21st and 25th 2020)
 
 ### Topics / Scope
 The aim of the workshop is to provide a platform for technical discussions and the presentation of work in progress, as well as, unsolved problems, which is complementary to the “Machine Learning Day” in the main conference program.
@@ -36,6 +36,9 @@ Please submit your paper via [CMT](https://cmt3.research.microsoft.com/MLHPCS202
 
 ## Program
 -TBA- 
+
+### Invited Talks
+-TBA-
 
 ## Contact
 info@mlhpcs.org
