@@ -1,5 +1,12 @@
 <img src="MLHPCS.png">
 
+## Corona UPDATE
+As our hosting confernce [ISC canceld](https://www.isc-hpc.com/) this years meeting, we will move on and turn our workshop into an online event within the framework of the planed ISC online event: 
+* **MLHPCS will take place as an online workshop** 
+* **All accepted papers will be published in Springer LNCS**
+* **NEW paper submission deadline: May 29th**
+* Workshop date will be annouced soon (we are wating for the programm of the new online ISC event
+
 ## Abstract
 Over the last few years, Machine Learning (and in particular Deep Learning) (ML / DL) has become an important research topic in the High Performance Computing (HPC) community. Bringing new users and data intensive applications on HPC systems, ML / DL is increasingly affecting the design and operation of compute infrastructures. On the other hand, the ML / DL community is just getting started to utilize the performance of HPC, leaving many opportunities for better parallelization and scalability. The intent of this workshop is to bring together researchers and practitioners to discuss three key topics in the context of High Performance Computing and Machine Learning / Deep Learning: parallelization and scaling of ML / DL algorithms, ML / DL applications on HPC systems, and HPC systems design and optimization for ML / DL workloads.  
 
@@ -19,7 +26,7 @@ The aim of the workshop is to provide a platform for technical discussions and t
 ## Call for Paper
 Double blind reviewed workshop paper will be published in the Springer LNCS Conference Proceedings of the ISC.
 
-### Submission Deadline: 04/15/20 [no extensions!]
+### NEW Submission Deadline: 05/29/20 [no extensions!]
 Please submit your paper via [CMT](https://cmt3.research.microsoft.com/MLHPCS2020)
 
 ### Paper Format
