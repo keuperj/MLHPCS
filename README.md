@@ -30,6 +30,12 @@ MLHPCS paper will be published in the Springer LNCS post Conference Proceedings 
 ## Program
 Video recordings of talks for all accepted papers and invited talks will be available starting 6/20 
 
+### Invited Talks
+#### Deploying machine learning algorithms at Petaflop scale on secure HPC production systems with containers
+by David Brayford form LRZ
+
+
+### Paper Presentattions
 
 ## Contact
 info@mlhpcs.org
