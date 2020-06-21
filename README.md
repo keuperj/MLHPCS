@@ -33,7 +33,7 @@ Video recordings of talks for all accepted papers and invited talks will be avai
 ### Invited Talks
 #### Deploying machine learning algorithms at Petaflop scale on secure HPC production systems with containers
 by David Brayford form LRZ
-
+{% include invited_talk_1.html  %}
 
 ### Paper Presentattions
 
