@@ -2,7 +2,7 @@
 by David Brayford form LRZ
 {% include invited_talk_1.html  %}
 ## Abstract
-*comming soon*
+There is an ever-increasing need for computational power to train complex artificial intelligence (AI) & machine learning (ML) models to tackle large scientific problems. High performance computing (HPC) resources are required to efficiently compute and scale complex models across tens of thousands of compute nodes. In this prentation, we discuss how we successfully deployed a standard machine learning framework on a secure large scale HPC production system, to train a complex three-dimensional convolutional GAN (3DGAN) model, with petaflop performance.
 
 ## [Slides](slides/DavidBrayfordLRZ.pdf)
 
