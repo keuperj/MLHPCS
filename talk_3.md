@@ -7,7 +7,7 @@ Biological ontologies, such as the Human Phenotype Ontology (HPO) and the Gene O
 
 ## [Slides](slides/MLHPCS20_GopherSlides.pdf)
 
-## [Paper pre-print](paper/)
+## [Paper pre-print](paper/Gother.pdf)
 
 ## About the Speaker
 Xavier Teruel received the Computer Engineering degree and the Master on Computer Architecture, Network and Systems at Technical University of Catalonia (UPC) in 2006 and 2008, respectively.
