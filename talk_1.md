@@ -6,7 +6,7 @@ Due to the rapidly increasing storage consumption worldwide, as well as the expe
 
 ## [Slides](slides/SmartPred_Unsupervised_Hard_Disk_Failure_Detection_Presentation.pdf)
 
-## [Paper pre-print](paper/)
+## [Paper pre-print](paper/SmartPred.pdf)
 
 ## About the Speaker
 Philipp just finished his Masters degree in Enterprise and IT Security at Offenburg Univesity. The presented work is part of his master thesis. He is now working as a security data analyst at Sick AG.

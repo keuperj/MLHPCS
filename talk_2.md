@@ -6,7 +6,7 @@ Neural architecture search (NAS) is a popular topic at the intersection of deep 
 
 ## [Slides](slides/NAS.pdf)
 
-## [Paper pre-print](paper/)
+## [Paper pre-print](paper/NASEnsemblesFinal.pdf)
 
 ## About the Speaker
 Emily Herron is a third year PhD Student in the Bredesen Center Data Science and Engineering Program at the University of Tennessee. This is a joint program between the University of Tennessee and Oak Ridge National Laboratory. She holds a B.S. in Computational Science from Mercer University. Her research utilizes high performance computing, with a focus on evolutionary algorithms and neural architecture search.
