@@ -1,4 +1,4 @@
-<img src="MLHPCS.png">
+<img src="../MLHPCS.png">
 
 # MLHPCS 2020
 MLHPCS has been held as an online workshop at the [ISC 2020](https://www.isc-hpc.com/).
