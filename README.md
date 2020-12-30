@@ -1,9 +1,10 @@
 <img src="MLHPCS.png">
+# MLHPCS 2020
+* papers and videos of the talks given at MLHPCS'20 can be found [here](2020/README.md)
+
 
 # MLHPCS 2021
-
-* the second workshop on **Machine Learning on HPC Systems** will is an online event, held in conjunction with the [ISC 2021](https://www.isc-hpc.com/) (**June 24 - July 2**).
-* papers and videos of the talks given at MLHPC'20 can be found [here](2020/README.md)
+* the second workshop on **Machine Learning on HPC Systems** is an online event, held in conjunction with the [ISC 2021](https://www.isc-hpc.com/) (**June 24 - July 2**).
 
 
 ## Abstract
