@@ -1,5 +1,9 @@
 <img src="MLHPCS.png">
-# MLHPCS 2020
+
+# MLHPCS Workshops
+**Machine Learning on HPC Systems** is workshop series held in conjunction with  [ISC Supercomputing Conference](https://www.isc-hpc.com/)
+
+### 2020 
 * papers and videos of the talks given at MLHPCS'20 can be found [here](2020/README.md)
 
 
