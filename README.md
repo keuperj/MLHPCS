@@ -7,15 +7,15 @@
 
 
 # MLHPCS 2021
-* the second workshop on **Machine Learning on HPC Systems** is an online event, held in conjunction with the [ISC 2021](https://www.isc-hpc.com/) (**June 24 - July 2**).
+* the second workshop on **Machine Learning on HPC Systems** is an online event, held in conjunction with the [ISC 2021](https://www.isc-hpc.com/) (**July 2nd**).
 
 
 ## Abstract
-Over the last few years, Machine Learning (and in particular Deep Learning) (ML / DL) has become an important research topic in the High Performance Computing (HPC) community. Bringing new users and data intensive applications on HPC systems, ML / DL is increasingly affecting the design and operation of compute infrastructures. On the other hand, the ML / DL community is just getting started to utilize the performance of HPC, leaving many opportunities for better parallelization and scalability. The intent of this workshop is to bring together researchers and practitioners to discuss three key topics in the context of High Performance Computing and Machine Learning / Deep Learning: parallelization and scaling of ML / DL algorithms, ML / DL applications on HPC systems, and HPC systems design and optimization for ML / DL workloads.  
+Over the last few years, Machine Learning (and in particular Deep Learning) (ML / DL) has become an important research topic in the High Performance Computing (HPC) community. This comes along with new users and data intensive applications on HPC systems, which increasingly affects the design and operation of compute infrastructures. Bringing new users and data intensive applications on HPC systems, Learning methods are increasingly affecting the design and operation of compute infrastructures. On the other hand, the learning community is just getting started to utilize the performance of HPC, leaving many opportunities for better parallelization and scalability. The intent of this workshop is to bring together researchers and practitioners from all communities to discuss three key topics in the context of High Performance Computing and learning methods: parallelization and scaling of ML / DL algorithms, learnig applications on HPC systems, and HPC systems design and optimization for ML / DL workloads.
 
-### Date: in conjunction with the [ISC 2021](https://www.isc-hpc.com/) online event 
-* ISC'21 is held from June 24 until July 2
-* Workshop date: TBA 
+### Date: in conjunction with the [ISC 2021](https://www.isc-hpc.com/) online conference 
+* ISC'21 is held from June 24th until July 2nd
+* Workshop date: July 2nd 
 
 ### Topics / Scope
 The aim of the workshop is to provide a platform for technical discussions and the presentation of work in progress, as well as, unsolved problems, which is complementary to the “Machine Learning Day” in the main conference program.
@@ -29,7 +29,14 @@ The aim of the workshop is to provide a platform for technical discussions and t
 * ML / DL applications on HPC Systems 
 
 ## Call for Paper
-MLHPCS paper will be published in the Springer LNCS post Conference Proceedings of the ISC.
+MLPCS '21 has a two stage submission process: submit a 1-2 page extended abstract to contribute with a talk to MLHPCS. Additionally, authors optionally can submit a post-conference paper for publication in LNCS.
+
+### Abstract submission
+* Extended astracts are due by **May 1st**
+
+### Full paper
+* MLHPCS paper will be published in the Springer LNCS post Conference Proceedings of the ISC.
+* Full papers of accepted abstracs are due by **July 10th** and will undergo a full review process. 
 
 ## Program
 -TBA-
