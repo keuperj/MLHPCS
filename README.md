@@ -33,10 +33,12 @@ MLPCS '21 has a two stage submission process: submit a 1-2 page extended abstrac
 
 ### Abstract submission
 * Extended astracts are due by **May 1st**
+* Submit abstract (CMT link comming soon)
 
 ### Full paper
 * MLHPCS paper will be published in the Springer LNCS post Conference Proceedings of the ISC.
 * Full papers of accepted abstracs are due by **July 10th** and will undergo a full review process. 
+* Submit full paper via abstract in CMT
 
 ## Program
 -TBA-
