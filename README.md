@@ -34,7 +34,7 @@ MLPCS '21 has a two stage submission process: submit a 1-2 page extended abstrac
 ### Abstract submission
 * Extended astracts are due by **May 1st** (end of day anywhere on earth)
 * Please use the [LNCS autor kit](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines) to write your abstract and paper 
-* [Submit abstract](https://cmt3.research.microsoft.com/MLHPCS2021)
+* [Submit abstract via CMT](https://cmt3.research.microsoft.com/MLHPCS2021)
 
 ### Full paper
 * MLHPCS paper will be published in the Springer LNCS post Conference Proceedings of the ISC.
