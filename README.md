@@ -43,7 +43,47 @@ MLPCS '21 has a two stage submission process: submit a 1-2 page extended abstrac
 * Format: 18 pages LNCS format. User the [template from Springer](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines )
 
 ## Program
--TBA-
+
+### Keynote
+Abtract will follow, title might change.
+
+#### Distributed training with large batches and asynchronous training using A-SGD 
+Daniel Soudry,  Technion
+
+### Invitted Talks
+Abtracts will follow, titles might change.
+
+#### Impact of large-scale pre-training on intra- and inter-domain transfer learning in full and few-shot regimes
+Jenia Jitsev, Juelich Supercomputer Center, Helmholtz AI, Research Center Juelich
+
+#### Large-scale Surrogate Modelling for Future Photon Sciences
+Nico Hoffmann, TUD
+
+#### Training DNNs via ODEs
+Stefanie Günther, LLNL
+
+#### Challenges when scalling DL training to thousands on GPUs and TPUs
+Ahmed Elnaggar, TU Munich
+
+### Contributed Taks 
+Abtracts will follow.
+
+#### MSM: Multi-Stage Multicuts forScalable Image Clustering
+Kalun Ho (Fraunhofer ITWM)*; Avraam chatzimichailidis (Fraunhofer ITWM ); Margret Keuper (University of Mannheim); Janis Keuper (hs-offenburg)
+
+#### Analysis of Black-box Optimization Algorithms to Tune TensorFlow's CPU Backend
+Niranjan Hasabnis (Intel)*; Derssie Mebratu (Intel)
+
+#### Parallel/distributed intelligent hyperparameters search for generative artificial neural networks
+Mathias Esteban (Universidad de la República); Jamal Toutouh (Universidad de Málaga)*; Sergio Nesmachnow (Universidad de la República)
+
+#### Machine learning for generic energy models of high performance computing
+Jonathan Muraña (Universidad de la República)*; Carmen Navarrete (Leibniz Supercomputing Center); Sergio Nesmachnow (Universidad de la República)
+
+#### Hyper-parameter optimisation on HPC – a comparative study
+Peter Winkler (TU Dresden)*; Norman Koch (TU Dresden)
+
+
 
 ## Contact
 info@mlhpcs.org
