@@ -49,32 +49,32 @@ Abtract will follow, title might change.
 Daniel Soudry,  Technion
 
 ### Invitted Talk: Impact of large-scale pre-training on intra- and inter-domain transfer learning in full and few-shot regimes
-#### Jenia Jitsev, Juelich Supercomputer Center, Helmholtz AI, Research Center Juelich
+Jenia Jitsev, Juelich Supercomputer Center, Helmholtz AI, Research Center Juelich
 
 ### Invitted Talk: Large-scale Surrogate Modelling for Future Photon Sciences
-#### Nico Hoffmann, TUD
+Nico Hoffmann, TUD
 
 ### Invitted Talk: Training DNNs via ODEs
-#### Stefanie Günther, LLNL
+Stefanie Günther, LLNL
 
 ### Invitted Talk: Challenges when scalling DL training to thousands on GPUs and TPUs
-#### Ahmed Elnaggar, TU Munich
+Ahmed Elnaggar, TU Munich
 
 
 ### Contributed Tak: MSM: Multi-Stage Multicuts forScalable Image Clustering
-#### Kalun Ho (Fraunhofer ITWM)*; Avraam chatzimichailidis (Fraunhofer ITWM ); Margret Keuper (University of Mannheim); Janis Keuper (hs-offenburg)
+Kalun Ho (Fraunhofer ITWM)*; Avraam chatzimichailidis (Fraunhofer ITWM ); Margret Keuper (University of Mannheim); Janis Keuper (hs-offenburg)
 
 ### Contributed Taks: Analysis of Black-box Optimization Algorithms to Tune TensorFlow's CPU Backend
-#### Niranjan Hasabnis (Intel)*; Derssie Mebratu (Intel)
+Niranjan Hasabnis (Intel)*; Derssie Mebratu (Intel)
 
 ### Contributed Tak: Parallel/distributed intelligent hyperparameters search for generative artificial neural networks
-#### Mathias Esteban (Universidad de la República); Jamal Toutouh (Universidad de Málaga)*; Sergio Nesmachnow (Universidad de la República)
+Mathias Esteban (Universidad de la República); Jamal Toutouh (Universidad de Málaga)*; Sergio Nesmachnow (Universidad de la República)
 
 ### Contributed Taks: Machine learning for generic energy models of high performance computing
-#### Jonathan Muraña (Universidad de la República)*; Carmen Navarrete (Leibniz Supercomputing Center); Sergio Nesmachnow (Universidad de la República)
+Jonathan Muraña (Universidad de la República)*; Carmen Navarrete (Leibniz Supercomputing Center); Sergio Nesmachnow (Universidad de la República)
 
 ### Contributed Tak: Hyper-parameter optimisation on HPC – a comparative study
-#### Peter Winkler (TU Dresden)*; Norman Koch (TU Dresden)
+Peter Winkler (TU Dresden)*; Norman Koch (TU Dresden)
 
 
 
