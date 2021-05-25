@@ -47,7 +47,8 @@ Abtract will follow, title might change.
 
 ### Keynote: Surprises in Deep Learning Training: Symmetry, Efficiency, and Scale
 Daniel Soudry,  Technion
-[abstract](2021/keynote.md)
+
+[[abstract](2021/keynote.md)]
 
 ### Invitted Talk: Impact of large-scale pre-training on intra- and inter-domain transfer learning in full and few-shot regimes
 Jenia Jitsev, Juelich Supercomputer Center, Helmholtz AI, Research Center Juelich
