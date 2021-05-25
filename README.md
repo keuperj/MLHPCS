@@ -68,7 +68,7 @@ abstract -TBA-
 ### Invitted Talk: Challenges when scalling DL training to thousands on GPUs and TPUs
 Ahmed Elnaggar, TU Munich
 
-[[abstract](2021/invited_2.md)]
+[[abstract](2021/invited_4.md)]
 
 ### Contributed Tak: MSM: Multi-Stage Multicuts forScalable Image Clustering
 Kalun Ho (Fraunhofer ITWM); Avraam chatzimichailidis (Fraunhofer ITWM ); Margret Keuper (University of Mannheim); Janis Keuper (hs-offenburg)
