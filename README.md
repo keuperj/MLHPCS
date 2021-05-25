@@ -52,39 +52,48 @@ Daniel Soudry,  Technion
 
 ### Invitted Talk: Impact of large-scale pre-training on intra- and inter-domain transfer learning in full and few-shot regimes
 Jenia Jitsev, Juelich Supercomputer Center, Helmholtz AI, Research Center Juelich
-[abstract](2021/invited_1.md)
+
+[[abstract](2021/invited_1.md)]
 
 ### Invitted Talk: Large-scale Neural Solvers for Partial Differential Equations
 Nico Hoffmann, TU Dresden
-[abstract](2021/invited_2.md)
+
+[[abstract](2021/invited_2.md)]
 
 ### Invitted Talk: Training DNNs via ODEs
 Stefanie Günther, LLNL
+
 abstract -TBA-
 
 ### Invitted Talk: Challenges when scalling DL training to thousands on GPUs and TPUs
 Ahmed Elnaggar, TU Munich
-[abstract](2021/invited_2.md)
+
+[[abstract](2021/invited_2.md)]
 
 ### Contributed Tak: MSM: Multi-Stage Multicuts forScalable Image Clustering
 Kalun Ho (Fraunhofer ITWM); Avraam chatzimichailidis (Fraunhofer ITWM ); Margret Keuper (University of Mannheim); Janis Keuper (hs-offenburg)
-[abstract](2021/contributed_1.md)
+
+[[abstract](2021/contributed_1.md)]
 
 ### Contributed Taks: Analysis of Black-box Optimization Algorithms to Tune TensorFlow's CPU Backend
 Niranjan Hasabnis (Intel); Derssie Mebratu (Intel)
-[abstract](2021/contributed_2.md)
+
+[[abstract](2021/contributed_2.md)]
 
 ### Contributed Tak: Parallel/distributed intelligent hyperparameters search for generative artificial neural networks
 Mathias Esteban (Universidad de la República); Jamal Toutouh (Universidad de Málaga); Sergio Nesmachnow (Universidad de la República)
-[abstract](2021/contributed_3.md)
+
+[[abstract](2021/contributed_3.md)]
 
 ### Contributed Taks: Machine learning for generic energy models of high performance computing
 Jonathan Muraña (Universidad de la República); Carmen Navarrete (Leibniz Supercomputing Center); Sergio Nesmachnow (Universidad de la República)
-[abstract](2021/contributed_4.md)
+
+[[abstract](2021/contributed_4.md)]
 
 ### Contributed Tak: Hyper-parameter optimisation on HPC – a comparative study
 Peter Winkler (TU Dresden); Norman Koch (TU Dresden)
-[abstract](2021/contributed_5.md)
+
+[[abstract](2021/contributed_5.md)]
 
 
 ## Contact
