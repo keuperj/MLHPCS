@@ -60,10 +60,10 @@ Nico Hoffmann, TU Dresden
 
 [[abstract](2021/invited_2.md)]
 
-### Invitted Talk: Training DNNs via ODEs
+### Invitted Talk: Deep Learning Meets Optimal Control - How Optimal Control Enables Faster and Better Training
 Stefanie Günther, LLNL
 
-abstract -TBA-
+[[abstract](2021/invited_3.md)]
 
 ### Invitted Talk: Challenges when scalling DL training to thousands on GPUs and TPUs
 Ahmed Elnaggar, TU Munich
