@@ -43,7 +43,6 @@ MLPCS '21 has a two stage submission process: submit a 1-2 page extended abstrac
 * Format: 18 pages LNCS format. User the [template from Springer](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines )
 
 ## Program
-Abtract will follow, title might change.
 
 ### Keynote: Surprises in Deep Learning Training: Symmetry, Efficiency, and Scale
 Daniel Soudry,  Technion
@@ -71,7 +70,7 @@ Ahmed Elnaggar, TU Munich
 [[abstract](2021/invited_4.md)]
 
 ### Contributed Tak: MSM: Multi-Stage Multicuts forScalable Image Clustering
-Kalun Ho (Fraunhofer ITWM); Avraam chatzimichailidis (Fraunhofer ITWM ); Margret Keuper (University of Mannheim); Janis Keuper (hs-offenburg)
+Kalun Ho (Fraunhofer ITWM); Avraam chatzimichailidis (Fraunhofer ITWM ); Margret Keuper (University of Mannheim); Janis Keuper (Fraunhofer ITWM + IMLA, Offenburg University)
 
 [[abstract](2021/contributed_1.md)]
 
