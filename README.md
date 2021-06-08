@@ -49,22 +49,22 @@ Daniel Soudry,  Technion
 
 [[abstract](2021/keynote.md)]
 
-### Invitted Talk: Impact of large-scale pre-training on intra- and inter-domain transfer learning in full and few-shot regimes
+### Invited Talk: Impact of large-scale pre-training on intra- and inter-domain transfer learning in full and few-shot regimes
 Jenia Jitsev, Juelich Supercomputer Center, Helmholtz AI, Research Center Juelich
 
 [[abstract](2021/invited_1.md)]
 
-### Invitted Talk: Large-scale Neural Solvers for Partial Differential Equations
+### Invited Talk: Large-scale Neural Solvers for Partial Differential Equations
 Nico Hoffmann, TU Dresden
 
 [[abstract](2021/invited_2.md)]
 
-### Invitted Talk: Deep Learning Meets Optimal Control - How Optimal Control Enables Faster and Better Training
+### Invited Talk: Deep Learning Meets Optimal Control - How Optimal Control Enables Faster and Better Training
 Stefanie Günther, LLNL
 
 [[abstract](2021/invited_3.md)]
 
-### Invitted Talk: Challenges when scalling DL training to thousands on GPUs and TPUs
+### Invited Talk: Challenges when scalling DL training to thousands on GPUs and TPUs
 Ahmed Elnaggar, TU Munich
 
 [[abstract](2021/invited_4.md)]
