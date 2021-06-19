@@ -35,14 +35,12 @@ The aim of the workshop is to provide a platform for technical discussions and t
 ### 2pm Wellcome and Intro
 
 ### 2.15pm Keynote: Surprises in Deep Learning Training: Symmetry, Efficiency, and Scale
-Daniel Soudry,  Technion
+Daniel Soudry,  Technion [[abstract](2021/keynote.md)]
 
-[[abstract](2021/keynote.md)]
 
 ### 3pm Invited Talk: Impact of large-scale pre-training on intra- and inter-domain transfer learning in full and few-shot regimes
-Jenia Jitsev, Juelich Supercomputer Center, Helmholtz AI, Research Center Juelich
+Jenia Jitsev, Juelich Supercomputer Center, Helmholtz AI, Research Center Juelich [[abstract](2021/invited_1.md)]
 
-[[abstract](2021/invited_1.md)]
 
 ### 3.30 pm Invited Talk: Large-scale Neural Solvers for Partial Differential Equations
 Nico Hoffmann, TU Dresden
@@ -56,36 +54,28 @@ Kalun Ho (Fraunhofer ITWM); Avraam chatzimichailidis (Fraunhofer ITWM ); Margret
 [[abstract](2021/contributed_1.md)]
 
 ### 4:15 Contributed Taks: Analysis of Black-box Optimization Algorithms to Tune TensorFlow's CPU Backend
-Niranjan Hasabnis (Intel); Derssie Mebratu (Intel)
-
-[[abstract](2021/contributed_2.md)]
+Niranjan Hasabnis (Intel); Derssie Mebratu (Intel)[[abstract](2021/contributed_2.md)]
 
 
 ### 4.30pm  Invited Talk: Deep Learning Meets Optimal Control - How Optimal Control Enables Faster and Better Training
-Stefanie Günther, LLNL
+Stefanie Günther, LLNL [[abstract](2021/invited_3.md)]
 
-[[abstract](2021/invited_3.md)]
 
 ### 5pm Invited Talk: Challenges when scalling DL training to thousands on GPUs and TPUs
-Ahmed Elnaggar, TU Munich
-
-[[abstract](2021/invited_4.md)]
+Ahmed Elnaggar, TU Munich [[abstract](2021/invited_4.md)]
 
 
 ### 5.30pm Contributed Tak: Parallel/distributed intelligent hyperparameters search for generative artificial neural networks
-Mathias Esteban (Universidad de la República); Jamal Toutouh (Universidad de Málaga); Sergio Nesmachnow (Universidad de la República)
+Mathias Esteban (Universidad de la República); Jamal Toutouh (Universidad de Málaga); Sergio Nesmachnow (Universidad de la República) [[abstract](2021/contributed_3.md)]
 
-[[abstract](2021/contributed_3.md)]
 
 ### 5.45pm Contributed Taks: Machine learning for generic energy models of high performance computing
-Jonathan Muraña (Universidad de la República); Carmen Navarrete (Leibniz Supercomputing Center); Sergio Nesmachnow (Universidad de la República)
+Jonathan Muraña (Universidad de la República); Carmen Navarrete (Leibniz Supercomputing Center); Sergio Nesmachnow (Universidad de la República) [[abstract](2021/contributed_4.md)]
 
-[[abstract](2021/contributed_4.md)]
 
 ### 6pm Contributed Tak: Hyper-parameter optimisation on HPC – a comparative study
-Peter Winkler (TU Dresden); Norman Koch (TU Dresden)
+Peter Winkler (TU Dresden); Norman Koch (TU Dresden) [[abstract](2021/contributed_5.md)]
 
-[[abstract](2021/contributed_5.md)]
 
 ### 6:15pm Closing Discussions
 
