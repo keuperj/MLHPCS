@@ -87,6 +87,8 @@ Peter Winkler (TU Dresden); Norman Koch (TU Dresden)
 
 [[abstract](2021/contributed_5.md)]
 
+### 6:15pm Closing Discussions
+
 
 ## Contact
 info@mlhpcs.org
