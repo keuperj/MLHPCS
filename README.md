@@ -32,7 +32,7 @@ The aim of the workshop is to provide a platform for technical discussions and t
 
 ## Program [Fr, July 2nd 2pm-6pm]() MESZ (local time Frankfurt, Germany) 
 
-### [2pm]() Wellcome and Intro
+### [2pm]() Welcome and Intro
 
 ### [2.15pm]() Keynote: Surprises in Deep Learning Training: Symmetry, Efficiency, and Scale
 Daniel Soudry,  Technion [[abstract](2021/keynote.md)]
@@ -46,10 +46,10 @@ Jenia Jitsev, Juelich Supercomputer Center, Helmholtz AI, Research Center Juelic
 Nico Hoffmann, TU Dresden [[abstract](2021/invited_2.md)]
 
 
-### [4pm]() Contributed Tak: MSM: Multi-Stage Multicuts forScalable Image Clustering
+### [4pm]() Contributed Talk: MSM: Multi-Stage Multicuts forScalable Image Clustering
 Kalun Ho (Fraunhofer ITWM); Avraam chatzimichailidis (Fraunhofer ITWM ); Margret Keuper (University of Mannheim); Janis Keuper (Fraunhofer ITWM + IMLA, Offenburg University) [[abstract](2021/contributed_1.md)]
 
-### [4:15pm]() Contributed Taks: Analysis of Black-box Optimization Algorithms to Tune TensorFlow's CPU Backend
+### [4:15pm]() Contributed Talk: Analysis of Black-box Optimization Algorithms to Tune TensorFlow's CPU Backend
 Niranjan Hasabnis (Intel); Derssie Mebratu (Intel)[[abstract](2021/contributed_2.md)]
 
 
@@ -61,15 +61,15 @@ Stefanie Günther, LLNL [[abstract](2021/invited_3.md)]
 Ahmed Elnaggar, TU Munich [[abstract](2021/invited_4.md)]
 
 
-### [5.30pm]() Contributed Tak: Parallel/distributed intelligent hyperparameters search for generative artificial neural networks
+### [5.30pm]() Contributed Talk: Parallel/distributed intelligent hyperparameters search for generative artificial neural networks
 Mathias Esteban (Universidad de la República); Jamal Toutouh (Universidad de Málaga); Sergio Nesmachnow (Universidad de la República) [[abstract](2021/contributed_3.md)]
 
 
-### [5.45pm]() Contributed Taks: Machine learning for generic energy models of high performance computing
+### [5.45pm]() Contributed Talk: Machine learning for generic energy models of high performance computing
 Jonathan Muraña (Universidad de la República); Carmen Navarrete (Leibniz Supercomputing Center); Sergio Nesmachnow (Universidad de la República) [[abstract](2021/contributed_4.md)]
 
 
-### [6pm]() Contributed Tak: Hyper-parameter optimisation on HPC – a comparative study
+### [6pm]() Contributed Talk: Hyper-parameter optimisation on HPC – a comparative study
 Peter Winkler (TU Dresden); Norman Koch (TU Dresden) [[abstract](2021/contributed_5.md)]
 
 
