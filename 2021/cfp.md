@@ -10,4 +10,4 @@ MLPCS '21 has a two stage submission process: submit a 1-2 page extended abstrac
 * MLHPCS paper will be published in the Springer LNCS post Conference Proceedings of the ISC.
 * Full papers of accepted abstracs are due by **July 10th** and will undergo a full review process. 
 * Submit full paper via abstract in CMT
-* Format: 18 pages LNCS format. User the [template from Springer](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines )
+* Format: 10 pages LNCS format. User the [template from Springer](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines )
