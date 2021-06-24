@@ -7,7 +7,9 @@ MLPCS '21 has a two stage submission process: submit a 1-2 page extended abstrac
 * [Submit abstract via CMT](https://cmt3.research.microsoft.com/MLHPCS2021)
 
 ### Full paper
-* MLHPCS paper will be published in the IEEE post Conference Workshop Proceedings of the ISC.
+* MLHPCS paper will be published in the LNCS post Conference Workshop Proceedings of the ISC.
 * Full papers of accepted abstracs are due by **July 10th** and will undergo a full review process. 
 * Submit full paper via abstract in CMT
-* Format: 6-10 pages IEEE format. User the [IEEE Conference Proceedings Template](https://www.ieee.org/conferences/publishing/templates.html)
+* Format: 18 pages LNCS format. User the [LNCS autor kit](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines)
+
+
