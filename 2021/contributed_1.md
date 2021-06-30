@@ -1,4 +1,4 @@
-# MSM: Multi-Stage Multicuts forScalable Image Clustering
+# MSM: Multi-Stage Multicuts for Scalable Image Clustering
 
 ## Abstract
 Correlation Clustering, also called the minimum cost multicut problem, is grouping data by pairwise similarities.
